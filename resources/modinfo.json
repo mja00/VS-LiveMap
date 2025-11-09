@@ -7,6 +7,6 @@
   "authors": [ "BillyGalbreath" ],
   "requiredOnClient": false,
   "dependencies": {
-    "game": "1.21.0"
+    "game": "1.21.5"
   }
 }
